@@ -4,6 +4,8 @@ Hey!
 
 In this project I did exploratory data analysis of a dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 
+Link to the Dataset - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 Index of content
 
 1.Importing the modules.
